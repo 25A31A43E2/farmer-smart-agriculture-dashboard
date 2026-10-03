@@ -1,4 +1,4 @@
-# 🌱 SmartAgri – Farmer-Friendly Smart Agriculture Dashboard
+# 🌱 SmartAgri – Farmer-Friendly Smart Agriculture Dashboard.
 
 **SmartAgri** is a farmer-friendly web-based smart agriculture dashboard designed to bring important farming information into one simple platform.
 
